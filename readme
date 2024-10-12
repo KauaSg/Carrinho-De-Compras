@@ -1,0 +1,30 @@
+Carrinho de Compras
+Descrição do Projeto
+Este projeto é um carrinho de compras interativo desenvolvido em HTML, CSS e JavaScript. Os usuários podem adicionar produtos ao carrinho, escolher a quantidade desejada e ver o total acumulado. É possível também limpar o carrinho, removendo todos os produtos e zerando o valor total.
+
+Funcionalidades
+-- Adicionar Produtos: Permite ao usuário escolher um produto, definir a quantidade e adicionar ao carrinho.
+-- Exibir Total: Calcula e exibe o valor total dos produtos no carrinho em tempo real.
+-- Limpar Carrinho: Remove todos os itens do carrinho e zera o valor total.
+
+Estrutura do Projeto
+-- HTML: Estrutura a interface do carrinho de compras, incluindo os campos para seleção de produtos e a exibição do carrinho.
+-- CSS: Define o design visual do projeto, com foco em uma interface agradável e organizada.
+-- JavaScript: Implementa a lógica de adicionar, exibir e remover produtos do carrinho.
+
+Tecnologias Utilizadas
+-- HTML
+-- CSS
+-- JavaScript
+
+Como Utilizar
+-- Adicionar um Produto:
+Selecione o produto desejado e a quantidade, e clique no botão "Adicionar". O item será incluído no carrinho, e o total será atualizado.
+
+-- Limpar Carrinho:
+Clique no botão "Limpar" para remover todos os itens do carrinho e zerar o valor total exibido.
+
+Estrutura de Arquivos
+-- index.html: Contém a estrutura principal da página, com o layout do carrinho de compras.
+-- style.css: Arquivo de estilização para aplicar o design visual.
+-- app.js: Arquivo de script que controla a lógica de adicionar e remover itens do carrinho e atualiza o total.
